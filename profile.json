@@ -1,0 +1,13 @@
+[
+  {
+    "id": "05r03g44-cb12-4977-bfcc-1419ed0ed080af",
+    "status": "ACTIVE",
+    "visible": true,
+    "creatDate": "2025-03-04T18:10:47.726655300",
+    "name": "Alibek",
+    "phone": 998993014314,
+    "password": 123456,
+    "balance": 0.0,
+    "role": "Admin"
+  }
+]
